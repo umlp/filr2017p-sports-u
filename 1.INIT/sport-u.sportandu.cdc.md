@@ -1,5 +1,5 @@
 ---
-equipemoa: Sportandu
+equipemoa: sportandu
 nomcode: sportu
 groupetd: 1
 guide: http://casisbelli.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.RedigerCdc
