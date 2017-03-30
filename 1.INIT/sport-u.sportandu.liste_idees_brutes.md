@@ -1,8 +1,7 @@
-
 ---
-- equipemoa: SportandU
-- nomcode: sportandu
-- groupetd: G1
+- equipemoa: sportandu
+- nomcode: sport-u
+- groupetd: 1
 - guide: http://casisbelli.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.AnimerRemueMeninge
 ---
 
@@ -12,7 +11,7 @@
 - Sujet : Sport and U, Concept et fonctionnalités
 - Nom des équipes participantes
   - Equipe MOA : sportandu
-  - Equipe en soutien : Apollo
+  - Equipe en soutien : apollo
 
 | ID 	| Idées brutes 	|
 |----	|--------------	|
