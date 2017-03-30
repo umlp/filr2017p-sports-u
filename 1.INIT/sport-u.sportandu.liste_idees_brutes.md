@@ -1,8 +1,8 @@
 ---
-- equipemoa: sportandu
-- nomcode: sport-u
-- groupetd: 1
-- guide: http://casisbelli.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.AnimerRemueMeninge
+equipemoa: sportandu
+nomcode: sport-u
+groupetd: 1
+guide: http://casisbelli.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.AnimerRemueMeninge
 ---
 
 
